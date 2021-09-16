@@ -2,7 +2,7 @@ import pickle
 import copy
 import matplotlib.pyplot as plt
 import time
-from a091 import SearchProblem
+from solution import SearchProblem
 import argparse
 
 ''' Parsing arguments '''
