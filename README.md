@@ -1,5 +1,5 @@
 # AI-Project---Scotland-Yard-Game
-Project developed for the [Artificial Inteligence Course](https://fenix.tecnico.ulisboa.pt/disciplinas/IArt9179577/2019-2020/1-semestre) during the Undergraduation in Computer Science and Engineering.
+Project developed for the [Artificial Inteligence Course](https://fenix.tecnico.ulisboa.pt/disciplinas/IArt9179577/2019-2020/1-semestre) during Undergraduation in Computer Science and Engineering.
 
 Project also developed by [Tiago Mamouros](https://github.com/mamouros99).
 
